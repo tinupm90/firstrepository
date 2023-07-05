@@ -4,7 +4,7 @@ public class Palindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s="amma";
+		String s="malayalam";
 		String s1="";
 		int a=s.length()-1;
 		
